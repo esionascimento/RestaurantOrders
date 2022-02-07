@@ -17,7 +17,7 @@ O projeto está estruturado em duas etapas obrigatórias, e a tarefa bônus, tam
 
 - `git clone https://github.com/esionascimento/RestaurantOrders.git`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `...`
+  - `RestaurantOrders`
 
 2. Crie o ambiente virtual para o projeto
 
